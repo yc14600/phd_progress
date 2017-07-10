@@ -1,2 +1,2 @@
-# phd_progress
-progress blog
+# PhD Progress
+Progress Blog
